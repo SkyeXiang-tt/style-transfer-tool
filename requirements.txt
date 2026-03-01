@@ -4,3 +4,4 @@ PyYAML
 python-docx
 requests
 supabase
+PyPDF2
