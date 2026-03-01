@@ -1,0 +1,6 @@
+streamlit
+openai
+PyYAML
+python-docx
+requests
+supabase
